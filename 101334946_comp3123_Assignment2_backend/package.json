@@ -1,0 +1,34 @@
+{
+  "name": "project",
+  "version": "1.0.0",
+  "description": "## About This assignment is about creating API endpoints and integrating MongoDB to a NodeJs web app.",
+  "main": "index.js",
+  "engines": {
+    "node": "v16.17.0",
+    "npm": "8.15.0"
+  },
+  "scripts": {
+    "test": "echo \"Something wrong happened!\" && exit 1",
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.2.0",
+    "express": "^4.18.2",
+    "mongoose": "^6.7.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArghawanS/101334946_comp3123_Assignment01.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ArghawanS/101334946_comp3123_Assignment01/issues"
+  },
+  "homepage": "https://github.com/ArghawanS/101334946_comp3123_Assignment01#readme"
+}
